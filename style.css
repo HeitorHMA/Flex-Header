@@ -1,0 +1,26 @@
+.header{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+.logo{
+    background-color: white;
+    font-weight: 700px;
+}
+.leftlinks{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    gap: 8px;
+}
+.rightlinks{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    gap: 8px;
+}
+.numbers{
+    background-color: white;
+}
